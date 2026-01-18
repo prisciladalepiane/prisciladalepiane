@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/prisciladalepiane-947b65b2/" target="_blank">
+  <a href="https://www.linkedin.com/in/priscila-gon%C3%A7alves-dalepiane-947b65b2/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://rpubs.com/prisciladalepiane" target="_blank">
