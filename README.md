@@ -21,7 +21,7 @@
 <div>
   <p>
     Sou formada em <b>Estatística</b> e <b>Engenharia de Software</b>, com pós-graduação em
-    <b>Machine Learning e MLOps</b>. Trabalho com dados estruturados, modelagem estatística,
+    <b>Machine Learning e MLOps</b>. Trabalho com  manipulação e análise de dados, modelagem estatística,
     avaliação de modelos e desenvolvimento de pipelines reprodutíveis.
   </p>
 
