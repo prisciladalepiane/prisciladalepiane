@@ -20,7 +20,8 @@ Trabalho com manipulação e análise de dados, modelagem estaística, avaliaç�
 
   </p>
 </div>
----
+
+<hr>
 
 <h2>🚀 Projetos </h2>
 
