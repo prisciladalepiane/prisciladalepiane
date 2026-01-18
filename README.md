@@ -16,7 +16,7 @@
 <div>
   <p>
 Estatística + Engenharia de Software aplicadas a <b>Machine Learning, Deep Learning e MLOps</b>.  
-Trabalho com manipulação e análise de dados, modelagem estaística, avaliação de modelos e pipelines reprodutíveis.
+Trabalho com manipulação e análise de dados, modelagem estatística, avaliação de modelos e pipelines reprodutíveis.
 
   </p>
 </div>
