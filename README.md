@@ -1,5 +1,4 @@
-<h1 align="center">👩‍💻 Priscila Gonçalves Dalepiane</h1>
-
+<h1 align="center"> 👩‍💻 </br> Priscila Gonçalves Dalepiane </h1>
 <p align="center">
   <b>Estatística & Engenharia de Software</b><br>
   <span>Machine Learning • Deep Learning • MLOps</span>
@@ -23,7 +22,7 @@
   <p>
     Sou formada em <b>Estatística</b> e <b>Engenharia de Software</b>, com pós-graduação em
     <b>Machine Learning e MLOps</b>. Trabalho com dados estruturados, modelagem estatística,
-    avaliação rigorosa de modelos e desenvolvimento de pipelines reprodutíveis.
+    avaliação de modelos e desenvolvimento de pipelines reprodutíveis.
   </p>
 
   <p>
