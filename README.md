@@ -1,10 +1,5 @@
 <h1 align="center"> 👩‍💻 </br> Priscila Gonçalves Dalepiane </h1>
 <p align="center">
-  <b>Estatística & Engenharia de Software</b><br>
-  <span>Machine Learning • Deep Learning • MLOps</span>
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/priscila-gon%C3%A7alves-dalepiane-947b65b2/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
@@ -16,55 +11,51 @@
   </a>
 </p>
 
-<hr>
+---
 
 <div>
   <p>
-    Sou formada em <b>Estatística</b> e <b>Engenharia de Software</b>, com pós-graduação em
-    <b>Machine Learning e MLOps</b>. Trabalho com  manipulação e análise de dados, modelagem estatística,
-    avaliação de modelos e desenvolvimento de pipelines reprodutíveis.
-  </p>
+Estatística + Engenharia de Software aplicadas a <b>Machine Learning, Deep Learning e MLOps</b>.  
+Trabalho com manipulação e análise de dados, modelagem estaística, avaliação de modelos e pipelines reprodutíveis.
 
-  <p>
-    Tenho interesse especial em problemas onde estatística, engenharia e tomada de decisão
-    se encontram, com foco em qualidade de dados, métricas, interpretação e deploy de modelos.
   </p>
 </div>
+---
 
-<hr>
-
-<h2>🚀 Projetos em Destaque</h2>
+<h2>🚀 Projetos </h2>
 
 <div>
   <ul>
     <li>
-      ♾️ <b>MLOps</b><br>
-      <a href="https://github.com/prisciladalepiane/mlops">mlops</a> – Versionamento de modelos,
-      pipelines, deploy e monitoramento.
+      ⚙️ <a href="https://github.com/prisciladalepiane/machine-learning)">
+        <b>Machine Learning</b> </a> – Estudos e projetos com redes neurais, fundamentos de arquiteturas profundas, treinamento, avaliação e experimentos aplicados.
     </li>
     <br>
     <li>
-      🧠 <b>Deep Learning</b><br>
-      <a href="https://github.com/prisciladalepiane/deep-learning">deep-learning</a> – Estudos e
-      experimentos com redes neurais e arquiteturas profundas.
+      🧠 <a href="https://github.com/prisciladalepiane/deep-learning"> <b>Deep Learning</b>
+      </a> – Estudos e experimentos com redes neurais e arquiteturas profundas.
+    </li>
+    <br>
+     <li>
+      ♾️ <a href="https://github.com/prisciladalepiane/mlops">
+        <b>MLOps</b> </a> – Versionamento de modelos, pipelines, deploy e monitoramento.
     </li>
     <br>
     <li>
-      🔬 <b>Ciência de Dados com Python</b><br>
-      <a href="https://github.com/prisciladalepiane/data_sci_py">data_sci_py</a> – Análise de dados,
+      🔬 
+      <a href="https://github.com/prisciladalepiane/data_sci_py"> <b>Ciência de Dados com Python</b> </a> – Análise de dados,
       visualização e Machine Learning com Python.
     </li>
     <br>
     <li>
-      🧪 <b>Shiny e Teoria Clássica dos Testes</b><br>
-      <a href="https://github.com/prisciladalepiane/app_shiny_tct">app_shiny_tct</a> – Aplicação Shiny
-      para visualização e análise em TCT.
+      🧪 <a href="https://github.com/prisciladalepiane/app_shiny_tct">
+        <b>Shiny e Teoria Clássica dos Testes</b>
+      </a> – Aplicação Shiny para visualização e análise em TCT.
     </li>
     <br>
     <li>
-      📚 <b>Teoria de Resposta ao Item</b><br>
-      <a href="https://github.com/prisciladalepiane/artigo-tri-latex">artigo-tri-latex</a> –
-      Monografia e estudos sobre TRI com LaTeX e R.
+      📚 <a href="https://github.com/prisciladalepiane/artigo-tri-latex">
+        <b>Teoria de Resposta ao Item</b></a> – Monografia e estudos sobre TRI com LaTeX e R.
     </li>
   </ul>
 </div>
