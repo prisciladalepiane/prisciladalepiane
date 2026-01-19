@@ -23,47 +23,23 @@ Trabalho com manipulação e análise de dados, modelagem estatística, avaliaç
 
 <hr>
 
-<h2>🚀 Projetos </h2>
+## 🚀 Projetos
 
-<div>
-  <ul>
-    <li>
-      ⚙️ <a href="https://github.com/prisciladalepiane/machine-learning)">
-        <b>Machine Learning</b> </a> – Estudos e projetos com redes neurais, fundamentos de arquiteturas profundas, treinamento, avaliação e experimentos aplicados.
-    </li>
-    <br>
-    <li>
-      🧠 <a href="https://github.com/prisciladalepiane/deep-learning"> <b>Deep Learning</b>
-      </a> – Estudos e experimentos com redes neurais e arquiteturas profundas.
-    </li>
-    <br>
-     <li>
-      ♾️ <a href="https://github.com/prisciladalepiane/mlops">
-        <b>MLOps</b> </a> – Versionamento de modelos, pipelines, deploy e monitoramento.
-    </li>
-    <br>
-    <li>
-      🔬 
-      <a href="https://github.com/prisciladalepiane/data_sci_py"> <b>Ciência de Dados com Python</b> </a> – Análise de dados,
-      visualização e Machine Learning com Python.
-    </li>
-    <br>
-    <li>
-      🧪 <a href="https://github.com/prisciladalepiane/app_shiny_tct">
-        <b>Shiny e Teoria Clássica dos Testes</b>
-      </a> – Aplicação Shiny para visualização e análise em TCT.
-    </li>
-    <br>
-    <li>
-      📚 <a href="https://github.com/prisciladalepiane/artigo-tri-latex">
-        <b>Teoria de Resposta ao Item</b></a> – Monografia e estudos sobre TRI com LaTeX e R.
-    </li>
-  </ul>
-</div>
+* ⚙️ [**Machine Learning**](https://github.com/prisciladalepiane/machine-learning) – Estudos e projetos com redes neurais, fundamentos de arquiteturas profundas, treinamento, avaliação e experimentos aplicados.
 
-<hr>
+* 🧠 [**Deep Learning**](https://github.com/prisciladalepiane/deep-learning) – Estudos e experimentos com redes neurais e arquiteturas profundas.
 
-<h2>🛠️ Stack</h2>
+* ♾️ [**MLOps**](https://github.com/prisciladalepiane/mlops) – Versionamento de modelos, pipelines, deploy e monitoramento.
+
+* 🔬 [**Ciência de Dados com Python**](https://github.com/prisciladalepiane/data_sci_py) – Análise de dados, visualização e Machine Learning com Python.
+
+* 🧪 [**Shiny e Teoria Clássica dos Testes**](https://github.com/prisciladalepiane/app_shiny_tct) – Aplicação Shiny para visualização e análise em TCT.
+
+* 📚 [**Teoria de Resposta ao Item**](https://github.com/prisciladalepiane/artigo-tri-latex) – Monografia e estudos sobre TRI com LaTeX e R.
+
+---
+
+## 🛠️ Stack
 
 <div>
   <p>
