@@ -31,7 +31,7 @@ Trabalho com manipulação e análise de dados, modelagem estatística, avaliaç
 
 * ♾️ [**MLOps**](https://github.com/prisciladalepiane/mlops) – Versionamento de modelos, pipelines, deploy e monitoramento.
 
-* 🔬 [**Ciência de Dados com Python**](https://github.com/prisciladalepiane/data_sci_py) – Análise de dados, visualização e Machine Learning com Python.
+* 🔬 [**Ciência de Dados com Python**](https://github.com/prisciladalepiane/data_sci_py) – Análise de dados, matemática, estatística visualização e fundamentos de Machine Learning com Python.
 
 * 🗃️ [**Banco de Dados**](https://github.com/prisciladalepiane/banco_de_dados) – Modelagem e consultas SQL com foco em bancos relacionais. Inclui scripts de criação de tabelas e casos de uso.
 
