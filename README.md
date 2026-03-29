@@ -23,7 +23,7 @@ Trabalho com manipulação e análise de dados, modelagem estatística, avaliaç
 
 <hr>
 
-## 🚀 Projetos
+## Repositórios
 
 * ⚙️ [**Machine Learning**](https://github.com/prisciladalepiane/machine-learning) – Estudos e projetos de machine learning, treinamento, avaliação e experimentos aplicados.
 
