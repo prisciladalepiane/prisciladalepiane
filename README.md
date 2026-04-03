@@ -33,20 +33,3 @@
 |  📚 [**Teoria de Resposta ao Item**](https://github.com/prisciladalepiane/artigo-tri-latex)| Monografia e estudos sobre TRI com LaTeX e R. |
 
 <img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
-
-## 🛠️ Stacks
-
-<div>
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" />
-    <img src="https://img.shields.io/badge/SQL-003B57?style=flat" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=flat" />
-    <img src="https://img.shields.io/badge/Deep%20Learning-4B0082?style=flat" />
-    <img src="https://img.shields.io/badge/MLOps-2F4F4F?style=flat" />
-    <img src="https://img.shields.io/badge/Shiny-75AADB?style=flat" />
-  </p>
-</div>
-
-<hr>
