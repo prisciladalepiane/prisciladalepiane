@@ -1,4 +1,5 @@
-<h1 align="center"> 👩🏻‍💻 </br> Priscila Dalepiane </h1>
+<img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
+<h1 align="center" > 👩🏻‍💻 <br> Priscila Dalepiane </h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/priscila-gon%C3%A7alves-dalepiane-947b65b2/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
@@ -11,7 +12,7 @@
   </a>
 </p>
 
----
+<img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
 
 <div>
   <p>
@@ -21,7 +22,7 @@ Trabalho com manipulação e análise de dados, modelagem estatística, avaliaç
   </p>
 </div>
 
-<hr>
+<img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
 
 ## Repositórios
 
