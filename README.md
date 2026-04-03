@@ -34,7 +34,7 @@
 
 <img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
 
-## 🛠️ Stack
+## 🛠️ Stacks
 
 <div>
   <p>
@@ -46,7 +46,6 @@
     <img src="https://img.shields.io/badge/Deep%20Learning-4B0082?style=flat" />
     <img src="https://img.shields.io/badge/MLOps-2F4F4F?style=flat" />
     <img src="https://img.shields.io/badge/Shiny-75AADB?style=flat" />
-    <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white" />
   </p>
 </div>
 
