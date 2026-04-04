@@ -20,9 +20,7 @@
 </p>
 <img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
 
-## Repositórios
-
-| Área | Descrição |
+| Repositório | Descrição |
 |------|----------|
 | ⚙️  [**Machine Learning**](https://github.com/prisciladalepiane/machine-learning) | Estudos e projetos de machine learning, treinamento, avaliação e experimentos aplicados. |
 | 🧠  [**Deep Learning**](https://github.com/prisciladalepiane/deep-learning) | Estudos e experimentos com redes neurais e arquiteturas profundas. |
